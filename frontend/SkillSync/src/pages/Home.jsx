@@ -12,10 +12,9 @@ const Home = () => {
         
     }
    }
-
-   useEffect(() => {
-     getdata()
-   }, [])
+  //  useEffect(() => {
+  //    getdata()
+  //  }, [])
    
   return (
     <div>Home</div>
